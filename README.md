@@ -26,7 +26,7 @@ We extend the standard exact-match metric with **edit similarity** (character-le
 
 ## Models Evaluated
 
-- EleutherAI/Pythia (1B, 2.8B, 6.9B, 12B)
+- EleutherAI/Pythia (1B, 2.8B)
 - EleutherAI/GPT-Neo 1.3B
 - AllenAI/OLMo-7B (fine-tuned)
 
